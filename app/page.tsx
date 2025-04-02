@@ -17,7 +17,7 @@ export default function Home() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-4xl lg:text-6xl font-bold mb-4">
-              I am Lukman
+              I am Matheen
               <span className="block text-primary mt-2">Next-Level Web Developer.</span>
             </h1>
             <p className="text-gray-400 mb-8">
